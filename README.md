@@ -2,8 +2,8 @@
 
 Copyright © 2016 [NUBOMEDIA]. Licensed under [Apache 2.0 License].
 
-nubomedia-ouatcontents
-======================
+nubomedia-ouat-qa
+=================
 
 NUBOMEDIA Live Tale's qa.
 
